@@ -67,3 +67,5 @@ final as (
 )
 
 select * from final
+
+-- SemZero dogfood no-op model change
